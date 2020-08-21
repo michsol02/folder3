@@ -1174,6 +1174,17 @@ section.lazy-placeholder:after {
 .cid-s7xjhnTDkh .dropdown-item:hover {
   color: #cc2952 !important;
 }
+.cid-s8iBPDQsoX {
+  padding-top: 105px;
+  padding-bottom: 15px;
+  background-color: #efefef;
+}
+.cid-s8iBPDQsoX P {
+  color: #767676;
+}
+.cid-s8iBPDQsoX H1 {
+  color: #ff3366;
+}
 .cid-s7xjhnTDkh .navbar {
   padding: .5rem 0;
   background: #ffffff;
@@ -1564,7 +1575,7 @@ section.lazy-placeholder:after {
   color: #cc2952 !important;
 }
 .cid-s7xk2W4d6W {
-  padding-top: 105px;
+  padding-top: 45px;
   padding-bottom: 60px;
   background-color: #ffffff;
 }
